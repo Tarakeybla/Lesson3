@@ -24,7 +24,6 @@ public class MainAppTask2 {
         System.out.println(boxApple.getWeightBox());
         System.out.println(boxOrange.getWeightBox());
 
-
         System.out.println(boxApple.compare(boxOrange));
     }
 }
